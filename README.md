@@ -2,7 +2,7 @@
 
 A simple daily planner for standard business hours (9 AM to 5 PM) that saves your tasks in the browser.
 
-**Live demo:** https://archils.github.io/workDayScheduler/
+**Live demo:** https://archo2.github.io/workDayScheduler/
 
 ## Features
 
@@ -17,7 +17,7 @@ HTML · CSS · JavaScript · jQuery · Bootstrap · Moment.js
 
 ## How to Use
 
-1. Open the [live demo](https://archils.github.io/workDayScheduler/) or open `index.html` in your browser.
+1. Open the [live demo](https://archo2.github.io/workDayScheduler/) or open `index.html` in your browser.
 2. Type an event into any hour.
 3. Click the save icon on that row.
 
@@ -28,5 +28,5 @@ HTML · CSS · JavaScript · jQuery · Bootstrap · Moment.js
 ## Author
 
 **Archils Oburu**
-- GitHub: [@Archils](https://github.com/Archils)
+- GitHub: [@Archo2](https://github.com/Archo2)
 - Email: oburuarchils@gmail.com
